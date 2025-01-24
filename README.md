@@ -1,8 +1,7 @@
 # weather-api
 
 **This project is responsive.**
-**used api**
-
+- [API](https://weatherstack.com/)
 - [Demo Project](https://ermiarzv.github.io/weather-api/)
 - Developed by Ermia Razavi
 - Created - January 2025
